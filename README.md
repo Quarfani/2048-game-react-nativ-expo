@@ -1,1 +1,9 @@
-# 2048-game-react-nativ-expo
+# Игра 2048 на React Native
+
+Для запуска
+```bash
+npx expo install
+```
+```bash
+npx expo start -c
+```
